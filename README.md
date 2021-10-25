@@ -11,7 +11,7 @@ test.csv: 1459 houses with 80 attributes<br>
 data_description.txt: full description of each column of the csv files
 
 ### Results
-Feature engineering and a solution using Kernel Ridge regression are shown in [Kernel_Ridge.ipynb](Kernel_Ridge.ipynb).
+Feature engineering and a solution using XGBoost regression are shown in [Kaggle_HousePrice.ipynb](Kaggle_HousePrice.ipynb).
 
 ### Required libraries
 - ``NumPy``
